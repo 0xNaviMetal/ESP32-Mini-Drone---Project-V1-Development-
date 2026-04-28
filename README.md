@@ -57,5 +57,5 @@ Current testing has confirmed:
 **Propellers must be removed during bench testing.** Due to the high RPM of coreless motors and the potential for software-induced "lock-up," bench testing without propellers is mandatory to prevent injury or hardware damage.
 
 ---
-**Developers:** SLIMANE , AYOUB  
+**Developers:** 0xNaviMetal , AYOUB  
 **Version:** 1.0.0 (Alpha)# ESP32-Mini-Drone---Project-V1-Development-
